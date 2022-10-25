@@ -22,14 +22,14 @@ We test our method for five public datasets, e.g., SWaT, WADI, PSM, MSL, and SMD
 
 ## Train
 
-Train for WADI
+For example, training for WADI
 ```sh
 sh runners/run_WADI.sh
 ```
 ## Test
 We provide the pretained model.
 
-Test for WADI 
+For example, testing for WADI 
 ```sh
 sh runners/run_WADI_test.sh
 ```
