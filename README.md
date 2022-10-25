@@ -1,7 +1,7 @@
 # Detecting-Multivariate-Time-Series-Anomalies-with-Zero-Known-Label
 This repository provides a PyTorch implementation of MTGFlow, which is the unsupervised anomaly dection and localization method.
 
-## Requirement
+## Requirements
 * python==3.8.5 
 * pytorch==1.7.1
 * numpy==1.19.2
@@ -11,6 +11,11 @@ This repository provides a PyTorch implementation of MTGFlow, which is the unsup
 * scikit-image==0.18.1
 * matplotlib== 3.3.4
 * pillow == 7.2.0
+
+
+```sh
+pip install -r requirements.txt
+```
 
 ## Data
 We test our method for five public datasets, e.g., SWaT, WADI, PSM, MSL, and SMD.
