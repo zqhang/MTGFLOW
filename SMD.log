@@ -1,0 +1,7 @@
+Namespace(batch_norm=False, batch_size=512, cuda=True, data_dir='../u_s/input/SWaT_Dataset_Attack_v0.csv', graph='None', hidden_size=32, input_size=1, lr=0.002, model='MAF', n_blocks=1, n_components=1, n_hidden=1, name='SMD', output_dir='./checkpoint/', seed=15, stride_size=10, train_split=0.6, weight_decay=0.0005, window_size=60)
+Loading dataset
+SMD
+Traceback (most recent call last):
+  File "main.py", line 76, in <module>
+    model = MTGFLOW(args.n_blocks, args.input_size, args.hidden_size, args.n_hidden, args.window_size, n_sensor, dropout=0.0, model = args.model, batch_norm=args.batch_norm)
+NameError: name 'n_sensor' is not defined
