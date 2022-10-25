@@ -18,9 +18,12 @@ We test our method for five public datasets, e.g., SWaT, WADI, PSM, MSL, and SMD
 ## Train
 
 Train for WADI
-*sh runners/run_WADI.sh
+
+sh runners/run_WADI.sh
 
 ## Test
 We provide the pretained model.
+
 Test for WADI 
-*sh runners/run_WADI_test.sh
+
+sh runners/run_WADI_test.sh
