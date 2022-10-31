@@ -1,4 +1,4 @@
-for file in /home/zhouqihang/zqh/project/input/processed/machine*train*
+for file in /home/project/input/processed/machine*train*
 do 
     var=${file##*/}
     # echo $var
