@@ -34,7 +34,7 @@ sh runners/run_WADI.sh
 python3 train_other_model.py --name DeepSVD
 ```
 - train for ```USAD``` and ```DAGMM```
-We report the results by the implementations in the following links. 
+We report the results by the implementations in the following links: 
 
 [`USAD`](https://github.com/manigalati/usad) and [`DAGMM`](https://github.com/danieltan07/dagmm/)
 
