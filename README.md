@@ -42,7 +42,7 @@ We report the results by the implementations in the following links:
 
 
 ## Test
-We provide the pretained model.
+We provide the pretained model of MTGFlow.
 
 For example, testing for WADI 
 ```sh
