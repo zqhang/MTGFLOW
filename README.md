@@ -31,7 +31,7 @@ sh runners/run_WADI.sh
 ```
 - train for ```DeepSVDD```, ```DeepSAD```, ```DROCC```, and ```ALOCC```. 
 ```sh
-python3 train_other_model.py --name DeepSVD
+python3 train_other_model.py --name SWaT --mode DeepSVDD
 ```
 - train for ```USAD``` and ```DAGMM```
 We report the results by the implementations in the following links: 
