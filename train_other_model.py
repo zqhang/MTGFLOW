@@ -16,7 +16,7 @@ from utils import log, ROC
 parser = argparse.ArgumentParser()
 # files
 parser.add_argument('--data_dir', type=str, 
-                    default='../u_s/input/SWaT_Dataset_Attack_v0.csv', help='Location of datasets.')
+                    default='Data/input/SWaT_Dataset_Attack_v0.csv', help='Location of datasets.')
 parser.add_argument('--output_dir', type=str, 
                     default='./checkpoint/model')
 parser.add_argument('--name',default='GANF_Water')
