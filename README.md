@@ -30,7 +30,7 @@ For example, training for WADI
 sh runners/run_WADI.sh
 ```
 - train for ```DeepSVDD```, ```DeepSAD```, ```DROCC```, and ```ALOCC```. 
-- ```sh
+```sh
 python3 train_other_model.py --name DeepSVD
 ```
 - train for ```USAD``` and ```DAGMM```
