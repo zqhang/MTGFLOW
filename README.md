@@ -37,6 +37,8 @@ python3 train_other_model.py --name DeepSVD
 We report the results by the implementations in the following links. 
 
 [`USAD`](https://github.com/manigalati/usad) and [`DAGMM`](https://github.com/danieltan07/dagmm/)
+
+
 ## Test
 We provide the pretained model.
 
