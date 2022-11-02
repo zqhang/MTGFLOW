@@ -21,8 +21,10 @@ pip install -r requirements.txt
 We test our method for five public datasets, e.g., ```SWaT```, ```WADI```, ```PSM```, ```MSL```, and ```SMD```.
 ```sh
 mkdir Dataset
+cd Dataset
+mkdir input
 ```
-Download the dataset in ```Dataset/```.
+Download the dataset in ```Data/input```.
 ## Train
 - train for MITGFlow
 For example, training for WADI
