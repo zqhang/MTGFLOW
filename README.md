@@ -24,14 +24,17 @@ mkdir Dataset
 ```
 Download the dataset in ```Dataset/```.
 ## Train
-
+- train for MITGFlow
 For example, training for WADI
 ```sh
 sh runners/run_WADI.sh
 ```
-We also provide the source file train_other_model.py for ```DeepSVDD```, ```DeepSAD```, ```DROCC```, ```ALOCC```. 
-
-For the implementation of ```USAD``` and ```DAGMM```, we report the results by the implementations in the following links. 
+- train for ```DeepSVDD```, ```DeepSAD```, ```DROCC```, and ```ALOCC```. 
+- ```sh
+python3 train_other_model.py --name DeepSVD
+```
+- train for ```USAD``` and ```DAGMM```
+We report the results by the implementations in the following links. 
 
 [`USAD`](https://github.com/manigalati/usad) and [`DAGMM`](https://github.com/danieltan07/dagmm/)
 ## Test
