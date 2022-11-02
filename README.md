@@ -19,13 +19,17 @@ pip install -r requirements.txt
 
 ## Data
 We test our method for five public datasets, e.g., SWaT, WADI, PSM, MSL, and SMD.
-
+Download the dataset in Dataset floder.
 ## Train
 
 For example, training for WADI
 ```sh
 sh runners/run_WADI.sh
 ```
+We also provide the source file train_other_model.py for DeepSVDD, DeepSAD, DROCC, ALOCC. 
+
+For the implementation of USAD and DAGMM, we report the results by the implementation in the following links. 
+[`USAD`](https://github.com/manigalati/usad) and [`DAGMM`](https://github.com/danieltan07/dagmm/)
 ## Test
 We provide the pretained model.
 
