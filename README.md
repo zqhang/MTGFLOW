@@ -1,6 +1,6 @@
 # Detecting-Multivariate-Time-Series-Anomalies-with-Zero-Known-Label
 
-This repository provides a PyTorch implementation of MTGFlow ([`Paper`](https://arxiv.org/abs/2208.02108), which is the unsupervised anomaly dection and localization method.
+This repository provides a PyTorch implementation of MTGFlow ([`Paper`](https://arxiv.org/abs/2208.02108)), which is the unsupervised anomaly dection and localization method.
 This repository is based on [`GANF`](https://github.com/EnyanDai/GANF).
 ## Requirements
 * python==3.8.5 
@@ -55,11 +55,10 @@ If you find this paper and repository useful, please cite our paper.
 
 ```
 @misc{zhou2022detecting,
-      title={Detecting Multivariate Time Series Anomalies with Zero Known Label},
+      title={Detecting Multivariate Time Series Anomalies with Zero Known Label}, 
       author={Qihang Zhou and Jiming Chen and Haoyu Liu and Shibo He and Wenchao Meng},
       year={2022},
       eprint={2208.02108},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
-}
 }
