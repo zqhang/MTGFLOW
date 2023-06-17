@@ -8,7 +8,7 @@ from models.DeepSAD import DeepSVDD,DeepSAD
 from models.DROCC import DROCCTrainer, LSTM_FC #DROCC
 from models.GAN import R_Net, D_Net, CNNAE, train_model, R_Loss, D_Loss, test_single_epoch
 import numpy as np
-from utils import log, ROC
+from utils import ROC
 
 # from data import fetch_dataloaders
 
