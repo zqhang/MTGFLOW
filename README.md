@@ -54,12 +54,13 @@ sh runners/run_WADI_test.sh
 If you find this paper and repository useful, please cite our paper.
 
 ```
-@misc{zhou2022detecting,
-      title={Detecting Multivariate Time Series Anomalies with Zero Known Label}, 
-      author={Qihang Zhou and Jiming Chen and Haoyu Liu and Shibo He and Wenchao Meng},
-      year={2022},
-      eprint={2208.02108},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{zhou2023detecting,
+  title={Detecting Multivariate Time Series Anomalies with Zero Known Label},
+  author={Zhou, Qihang and Chen, Jiming and Liu, Haoyu and He, Shibo and Meng, Wenchao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={4},
+  pages={4963--4971},
+  year={2023}
 }
 ```
