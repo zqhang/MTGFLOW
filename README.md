@@ -3,9 +3,9 @@
 This repository provides a PyTorch implementation of MTGFlow ([`Paper`](https://arxiv.org/abs/2208.02108)), which is the unsupervised anomaly dection and localization method.
 This repository is based on [`GANF`](https://github.com/EnyanDai/GANF).
 
-![Framework](./assets/framework.png)
+![Framework](./asset/framework.png)
 
-![Results](./assets/results.png)
+![Results](./asset/results.png)
 
 ## Requirements
 * python==3.8.5 
