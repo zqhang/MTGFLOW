@@ -20,6 +20,10 @@ pip install -r requirements.txt
 
 ## Data
 We test our method for five public datasets, e.g., ```SWaT```, ```WADI```, ```PSM```, ```MSL```, and ```SMD```.
+
+[`SWaT`](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#swat)
+[`WADI`](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#wadi)
+
 ```sh
 mkdir Dataset
 cd Dataset
