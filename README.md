@@ -5,7 +5,7 @@ This repository is based on [`GANF`](https://github.com/EnyanDai/GANF).
 
 ![Framework](./assets/framework.png)
 
-
+![Results](./assets/results.png)
 
 ## Requirements
 * python==3.8.5 
