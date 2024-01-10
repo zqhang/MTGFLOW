@@ -75,3 +75,13 @@ If you find this paper and repository useful, please cite our paper.
   year={2023}
 }
 ```
+
+```
+@article{zhou2024label,
+  title={Label-Free Multivariate Time Series Anomaly Detection},
+  author={Zhou, Qihang and He, Shibo and Liu, Haoyu and Chen, Jiming and Meng, Wenchao},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2024},
+  publisher={IEEE}
+}
+```
